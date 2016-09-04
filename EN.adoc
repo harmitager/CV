@@ -10,7 +10,7 @@ mailto:regharmitage@gmail.com[] +
 https://linkedin.com/in/harmitage[@ *LinkedIn*],
 https://github.com/harmitage[@ *GitHub*] +
 
-== SUMARY
+== SUMMARY
 I've graduated from the Chelyabinsk State University in 2014 with Specialist of Computer Security. I have learned a lot including different aspects of Software Developing and Statistics and Data Analysis.
 
 I've changed two jobs, first of which was as support for a team of engineers, who were working on the power stations projects and the second one was as a QA Automatization Engineer.
