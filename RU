@@ -1,0 +1,95 @@
+= Andrey Raspopov
+:published_at: 2016-09-04
+
+NOTE: Last updated on *{docdate}*
+
+== CONTACT
+8-912-316-84-00 +
+mailto:harmitage@yandex.ru[] +
+mailto:regharmitage@gmail.com[] +
+https://linkedin.com/in/harmitage[@ *LinkedIn*],
+https://github.com/harmitage[@ *GitHub*] +
+
+== SUMMARY
+I've graduated from the Chelyabinsk State University in 2014 with Specialist of Computer Security. I have learned a lot including different aspects of Software Developing and Statistics and Data Analysis.
+
+I've changed two jobs, first of which was as support for a team of engineers, who were working on the power stations projects and the second one was as a QA Automatization Engineer.
+
+Now I'm looking for work and I want to change my direction from JS and front-end developing process to the JVM world.
+
+=== What I’ve worked on in the past
+
+* Writing and supporting VBA macros for engineers working on power plants projects
+* Small framework for automatization of the QA of the web-UI in big project. Using Nightwatch as base and Jenkins as CI
+* Routine QA-process.
+* Writing test-cases.
+* JIRA as a team tool.
+
+=== Side Projects
+
+I've started many side projects, most of which were just for the sake of learning, but right now I'm interested in three of them and you can find them on my GitHub:
+* Rosalind.Python and Rosalind.Kotlin contain my solutions for Rosalind tasks(Bioinformatics).
+* BioKotlin is my attempt to rewrite BioJava library in Kotlin, but it is on hiatus right now
+* gsgback is my attempt to write working Grand Strategy Game, I'm writing all of the back-end stuff in Kotlin and my friend is writing GUI part using Java.
+
+Also there is Subway Surfers repo, in which you can find working example of endless runner which I've written using Unity 3D, but artist and I have parted our ways.
+
+
+=== What I'm looking to do next
+
+I have a strong desire to enter Java or even Kotlin world. Also I want to start my education in the Bioinformatics field in the University of Bioinformatics in Saint Petersburg in 2017.
+
+== SKILLS
+
+[align="center",cols="3",width="90%",options="header"]
+|====
+|[big]#*Area*#|[big]#*Language/Technology*#|[big]#*Frameworks or implementations*#
+|Web|JavaScript EC5|jQuery, NodeJS
+|Testing|Java, JavaScript EC5|Nightwatch, Cucumber, Selenium, JUnit
+|Database|SQL, NoSQL|Mongoose, MySQL
+|Bioinformatics|Java, Python, Kotlin|BioPython, BioJava
+|Tools|IDE, CI| IntelliJ IDEA, PyCharm, Gradle, Jenkins, JIRA, YouTrack
+|Frameworks|Java, Javascript| Spring, MEAN
+|Books| Java | Thinking in Java, Effective Java, Pro Spring
+|====
+
+== EDUCATION
+September 2008 -- January 2014 +
+Chelyabinsk, Russia +
+Chelyabinsk State University +
+
+*Specialist in Computer Security*
+
+=== Coursera.org Courses
+
+==== Complete ====
+* The Data Scientist's Toolbox
+* Functional Programming Principles in Scala
+* Functional Program Design in Scala
+
+
+== PROFESSIONAL EXPERIENCE
+
+=== ODB Programmer
+May 2014 -- July 2015+
+Chelyabinsk, Russia +
+Emerson +
+
+*Environment:* ODB, MS Visio, MySQL
+
+* Wrote and supported VBA macros linking MySQL database through the ODB application to different standard documents
+* Implemented several different useful tools for project engineers
+
+=== QA Engineer
+July 2015 -- October 2015+
+Chelyabinsk, Russia +
+Applied Tech +
+
+*Environment:* Javascript, Selenium, Nightwatch, JIRA, Confluence, SVN, Testlink
+
+* Wrote a framework based on Nightwatch, which unifies and lightens the weight of test-case implementation.
+
+* Wrote test-cases for Testlink and developed new, based on new software functionality
+
+* Supported written framework and helped other QAs to write automated test-cases in it
+
