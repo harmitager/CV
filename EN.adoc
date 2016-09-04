@@ -6,7 +6,7 @@ NOTE: Last updated on *{docdate}*
 == CONTACT
 8-912-316-84-00 +
 mailto:harmitage@yandex.ru[] +
-mailto:regharmitage@gmail.com[]
+mailto:regharmitage@gmail.com[] +
 https://linkedin.com/in/harmitage[@ *LinkedIn*],
 https://github.com/harmitage[@ *GitHub*] +
 
@@ -43,14 +43,14 @@ I have a strong desire to enter Java or even Kotlin world. Also I want to start 
 
 [align="center",cols="3",width="90%",options="header"]
 |====
-|[big]#*Development*#|[big]#*Language/Technology*#|[big]#*Framework*#
+|[big]#*Area*#|[big]#*Language/Technology*#|[big]#*Frameworks or implementations*#
 |Web|JavaScript EC5|jQuery, NodeJS
 |Testing|Java, JavaScript EC5|Nightwatch, Cucumber, Selenium, JUnit
 |Database|SQL, NoSQL|Mongoose, MySQL
 |Bioinformatics|Java, Python, Kotlin|BioPython, BioJava
-|Tools|IntelliJ IDEA, PyCharm, Gradle, Jenkins, JIRA, YouTrack
-|Frameworks|Spring, MEAN
-|Books| Thinking in Java, Effective Java, Pro Spring
+|Tools|IDE, CI| IntelliJ IDEA, PyCharm, Gradle, Jenkins, JIRA, YouTrack
+|Frameworks|Java, Javascript| Spring, MEAN
+|Books| Java | Thinking in Java, Effective Java, Pro Spring
 |====
 
 == EDUCATION
