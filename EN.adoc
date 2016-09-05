@@ -81,7 +81,7 @@ Emerson +
 * Implemented several different useful tools for project engineers
 
 === QA Engineer
-July 2015 -- October 2015+
+July 2015 -- October 2016+
 Chelyabinsk, Russia +
 Applied Tech +
 
