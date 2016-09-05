@@ -1,49 +1,50 @@
-= Andrey Raspopov
-:published_at: 2016-09-04
+= Андрей Распопов
+:published_at: 2016-09-05
 
-NOTE: Last updated on *{docdate}*
+Последнее обновление: *{docdate}*
 
-== CONTACT
+== Контактные данные
 8-912-316-84-00 +
 mailto:harmitage@yandex.ru[] +
 mailto:regharmitage@gmail.com[] +
 https://linkedin.com/in/harmitage[@ *LinkedIn*],
 https://github.com/harmitage[@ *GitHub*] +
 
-== SUMMARY
-I've graduated from the Chelyabinsk State University in 2014 with Specialist of Computer Security. I have learned a lot including different aspects of Software Developing and Statistics and Data Analysis.
+== О себе
+В 2014 году я получил диплом специалиста в Компьютерной Безопасности, в ЧелГУ. За время обучения я успел получить знания в различных областях, в том числе узнал процесс разработки ПО с разных сторон, а также изучил дисциплины, необходимые для работы любому Аналитику.
 
-I've changed two jobs, first of which was as support for a team of engineers, who were working on the power stations projects and the second one was as a QA Automatization Engineer.
+После этого я сменил две постоянные работы: одна заключалась в поддержке группы инженеров, занимавшихся проектированием энергостанций, на второй же я занимался автоматизацией QA фронтенда.
 
-Now I'm looking for work and I want to change my direction from JS and front-end developing process to the JVM world.
+Сейчас я нахожусь в поиске и хочу сменить направление своего развития, и вступить в мир разработки под JVM.
 
-=== What I’ve worked on in the past
+=== Опыт работы
 
-* Writing and supporting VBA macros for engineers working on power plants projects
-* Small framework for automatization of the QA of the web-UI in big project. Using Nightwatch as base and Jenkins as CI
-* Routine QA-process.
-* Writing test-cases.
-* JIRA as a team tool.
+* Написание и сопровождение VBA макро для инженеров
+* Создание небольшого фреймворка для автоматизации процесса QA с использованием Nightwatch и Jenkins в качестве CI
+* Ручное тестирование, как UI, так и остальных модулей системы.
+* Написание тест-кейсов и сценариев.
+* Использование различных инструментов для работы в команде, Confluence, JIRA, Testlink
 
-=== Side Projects
+=== Домашние проекты
 
-I've started many side projects, most of which were just for the sake of learning, but right now I'm interested in three of them and you can find them on my GitHub:
-* Rosalind.Python and Rosalind.Kotlin contain my solutions for Rosalind tasks(Bioinformatics).
-* BioKotlin is my attempt to rewrite BioJava library in Kotlin, but it is on hiatus right now
-* gsgback is my attempt to write working Grand Strategy Game, I'm writing all of the back-end stuff in Kotlin and my friend is writing GUI part using Java.
+Я работал над различными небольшими проектами, большая часть из которых затевалась ради самообучения, но в данный момент я сосредоточен на трёх, которых вы можете найти у меня на GitHub:
+* Rosalind.Python и Rosalind.Kotlin содержат мои решения заданий с сайта Rosalind(биоинформатика).
+* BioKotlin является моей попыткой переписать библиотеку BioJava на Kotlin, но в данный момент он приостановлен.
+* gsgback является попыткой написать GSG, я занимаюсь написанием основной части, на Kotlin, а мой товарищ пишет GUI на Java с использованием jMonkey.
 
-Also there is Subway Surfers repo, in which you can find working example of endless runner which I've written using Unity 3D, but artist and I have parted our ways.
+Также вы можете ознакомиться с Subway Surfers, рабочим примером раннера, который я писал с использованием Unity 3D. К сожалению мы перестали работать вместе с художником, поэтому сейчас этот проект заморожен.
+За время его написания был решён ряд проблем, связанных с необычной формой поверхности, по которой осуществляется бег.
 
+=== Планы на будущее
 
-=== What I'm looking to do next
+У меня есть большое желание войти в мир Java, который почему-то прошёл мимо меня несколько лет назад.
+Также я собираюсь начать обучение в Институте Биоинформатики в Санкт-Петербурге, в 2017 году.
 
-I have a strong desire to enter Java or even Kotlin world. Also I want to start my education in the Bioinformatics field in the University of Bioinformatics in Saint Petersburg in 2017.
-
-== SKILLS
+== Навыки
 
 [align="center",cols="3",width="90%",options="header"]
 |====
-|[big]#*Area*#|[big]#*Language/Technology*#|[big]#*Frameworks or implementations*#
+|[big]#*Сфера*#|[big]#*Язык/Технология*#|[big]#*Фреймворки или инструменты*#
 |Web|JavaScript EC5|jQuery, NodeJS
 |Testing|Java, JavaScript EC5|Nightwatch, Cucumber, Selenium, JUnit
 |Database|SQL, NoSQL|Mongoose, MySQL
@@ -53,43 +54,40 @@ I have a strong desire to enter Java or even Kotlin world. Also I want to start 
 |Books| Java | Thinking in Java, Effective Java, Pro Spring
 |====
 
-== EDUCATION
-September 2008 -- January 2014 +
-Chelyabinsk, Russia +
-Chelyabinsk State University +
+== Образование
+Сентябрь 2008 -- Январь 2014 +
+Челябинск, Россия +
+Челябинский Государственный Университет +
 
-*Specialist in Computer Security*
+*Специалист, Компьютерная безопасность, по направлению Математика*
 
-=== Coursera.org Courses
+=== Coursera.org
 
-==== Complete ====
+==== Завершённые ====
 * The Data Scientist's Toolbox
 * Functional Programming Principles in Scala
 * Functional Program Design in Scala
 
 
-== PROFESSIONAL EXPERIENCE
+== Опыт работы
 
 === ODB Programmer
-May 2014 -- July 2015+
-Chelyabinsk, Russia +
+Май 2014 -- Июль 2015+
+Челябинск, Россия +
 Emerson +
 
-*Environment:* ODB, MS Visio, MySQL
+*Инструменты:* ODB, MS Visio, MySQL
 
-* Wrote and supported VBA macros linking MySQL database through the ODB application to different standard documents
-* Implemented several different useful tools for project engineers
+* Писал и сопровождал VBA макросы, обеспечивавшие генерацию документации по данным БД, с использованием специализированного ПО
+* Создал несколько полезных инструментов для инженеров-проектировщиков
 
 === QA Engineer
-July 2015 -- October 2015+
-Chelyabinsk, Russia +
-Applied Tech +
+Июль 2015 -- Октябрь 2016+
+Россия, Челябинск +
+Прикладные технологии +
 
-*Environment:* Javascript, Selenium, Nightwatch, JIRA, Confluence, SVN, Testlink
+*Инструменты:* Javascript, Selenium, Nightwatch, JIRA, Confluence, SVN, Testlink
 
-* Wrote a framework based on Nightwatch, which unifies and lightens the weight of test-case implementation.
-
-* Wrote test-cases for Testlink and developed new, based on new software functionality
-
-* Supported written framework and helped other QAs to write automated test-cases in it
-
+* Написал фреймворк, основанный на Nightwatch, позволяющий быстро создавать новые авто-тесты на основе тест-кейсов
+* Осуществлял поддержку этого фреймворка, написал сопроводительную документацию и научил остальных QA в команде пользоваться им
+* Создавал описания тест-кейсов и сценариев, как старых, так и основанных на новой функциональности ПО
